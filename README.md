@@ -6,9 +6,6 @@ Go here for a more polished version of this software that my friends and I have 
 ## GUI
 Developed using tkinter. This is just the first draft. Looking to make it an android app in the future.
 
-edit: found that you can't make android apps with Tkinter.
-Now I have to rewrite the code in Kivy.
-
 ## Some heads-up:
 
 It uses Python 3.
